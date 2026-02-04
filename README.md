@@ -1,26 +1,26 @@
-# Cybersecuity-portfolio
-# Professional Statement – Maxine Wambui Mwangi  
+# Cybersecurity Portfolio
+## Professional Statement – Maxine Wambui Mwangi
 
-I am an aspiring cybersecurity professional with a strong passion for protecting digital assets and securing sensitive information. My interest in cybersecurity stems from my fascination with technology and my desire to contribute to a safer digital world.  
-
-## Strengths  
-- Critical thinking  
-- Attention to detail  
-- Problem-solving  
-
-## Values  
-- Integrity  
-- Continuous learning  
-- Collaboration  
-
-## Career Goals  
-As I continue to build my technical expertise, I am eager to apply my knowledge to help organizations strengthen their security posture. I am particularly interested in **threat analysis, network security, and ethical hacking**.  
-
-My goal is to contribute to an organization’s security framework by implementing best practices and proactive security measures to protect against cyber threats.  
+I am a Computer Science student and aspiring cybersecurity professional with a passion for protecting digital assets and securing sensitive information. My interest in cybersecurity stems from my fascination with technology and my desire to contribute to a safer digital world.
 
 ---
-*This document is part of my cybersecurity portfolio.*  
 
-📂 **GitHub Repository:** maxinemerliah  
+## Strengths
+- **Critical Thinking** – Analyze complex problems and identify potential vulnerabilities.  
+- **Attention to Detail** – Ensure accuracy in security assessments and system configurations.  
+- **Problem-Solving** – Develop effective solutions to technical and security challenges.
+
+## Values
+- **Integrity** – Committed to ethical practices and responsible handling of sensitive data.  
+- **Continuous Learning** – Always updating knowledge in cybersecurity trends and tools.  
+- **Collaboration** – Work effectively with teams to implement security solutions.
+
+## Career Goals
+I aim to apply my skills in **threat analysis, network security, and ethical hacking** to help organizations strengthen their security posture. My goal is to proactively identify and mitigate cyber risks, implementing best practices and security frameworks.
+
+---
+
+*This document is part of my cybersecurity portfolio.*
+📂 **GitHub Repository:** MaxineMwangi 
 📧 **Contact:** maxinemerliah@gmail.com
 
